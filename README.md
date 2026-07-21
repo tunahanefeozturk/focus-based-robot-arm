@@ -34,9 +34,3 @@ Odak metriğinin kullanılmasıyla istemsiz algılamalar azalmış ve sistemin d
 * **Kullanıcı Memnuniyeti:** Genel memnuniyet 6,38/7 olarak ölçülürken, sistemi tekrar deneyimleme isteği tam puana (7,00/7) ulaşmıştır.
 
 Bu çalışma, yüksek maliyetli laboratuvar BBA teknolojilerinin tüketici sınıfı donanımlarla erişilebilir pratik projelere dönüştürülebileceğini göstermiştir. Dağıtık ağ mimarisiyle sağlanan düşük gecikmeli iletimin, acil durdurma gerektiren iş güvenliği senaryolarında uygulanma potansiyeli taşıdığı değerlendirilmektedir.
-
-## Kurulum ve Çalıştırma
-
-1. Projeyi klonlayın:
-   ```bash
-   git clone [https://github.com/kullaniciadin/eeg-robotic-arm.git](https://github.com/kullaniciadin/eeg-robotic-arm.git)
