@@ -12,7 +12,7 @@ Projenin ağır hesaplama ve sinyal işleme adımları uç cihazda değil, ana b
 3. **Haberleşme:** Üretilen komutlar UDP protokolü üzerinden ağdaki Raspberry Pi 5'e aktarılır. 
 4. **Fiziksel Kontrol:** Raspberry Pi 5 üzerinde çalışan RPI.GPIO kütüphanesi kullanılarak robotun servolarının kontrolü sağlanır. Aktif durumunda robot kol hareket ederken, pasif durumunda güvenli bir şekilde durur.
 
-![Sistem Mimarisi](architecture.png)
+![Sistem Mimarisi](genel.png)
 
 ## Kullanıcı Çalışması ve Metodoloji
 
@@ -22,7 +22,7 @@ Katılımcılara kalibrasyon ve kısa bir eğitim verildikten sonra, 30 saniyeli
 
 Aşağıdaki şema, bu kullanıcı çalışmasının aşamalarını göstermektedir:
 
-![Kullanıcı Çalışması](user.png)
+![Kullanıcı Çalışması](deney.png)
 
 ## Deneysel Bulgular ve Sonuçlar
 
