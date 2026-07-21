@@ -22,7 +22,7 @@ Katılımcılara kalibrasyon ve kısa bir eğitim verildikten sonra, 30 saniyeli
 
 Aşağıdaki şema, bu kullanıcı çalışmasının aşamalarını göstermektedir:
 
-![Kullanıcı Çalışması](user experience.png)
+![Kullanıcı Çalışması](user.png)
 
 ## Deneysel Bulgular ve Sonuçlar
 
